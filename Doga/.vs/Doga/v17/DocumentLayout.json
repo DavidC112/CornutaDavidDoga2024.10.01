@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D29A9633-6725-4A40-8031-5D16691B3EA4}|Doga.csproj|c:\\d\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_doga_kektura\\doga\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29A9633-6725-4A40-8031-5D16691B3EA4}|Doga.csproj|solutionrelative:tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29A9633-6725-4A40-8031-5D16691B3EA4}|Doga.csproj|c:\\d\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_doga_kektura\\doga\\beolvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29A9633-6725-4A40-8031-5D16691B3EA4}|Doga.csproj|solutionrelative:beolvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29A9633-6725-4A40-8031-5D16691B3EA4}|Doga.csproj|c:\\d\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_doga_kektura\\doga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29A9633-6725-4A40-8031-5D16691B3EA4}|Doga.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\Tasks.cs",
+              "RelativeDocumentMoniker": "Tasks.cs",
+              "ToolTip": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\Tasks.cs",
+              "RelativeToolTip": "Tasks.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:07:44.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:02:47.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beolvas.cs",
+              "DocumentMoniker": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\Beolvas.cs",
+              "RelativeDocumentMoniker": "Beolvas.cs",
+              "ToolTip": "C:\\D\u00E1vid\\c#\\12.oszt\u00E1ly\\2024.10.01_Doga_kektura\\Doga\\Beolvas.cs",
+              "RelativeToolTip": "Beolvas.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:03:18.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

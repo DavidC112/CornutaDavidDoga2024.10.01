@@ -1,0 +1,14 @@
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\bin\Debug\net8.0\Doga.exe
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\bin\Debug\net8.0\Doga.deps.json
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\bin\Debug\net8.0\Doga.runtimeconfig.json
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\bin\Debug\net8.0\Doga.dll
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\bin\Debug\net8.0\Doga.pdb
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.AssemblyInfoInputs.cache
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.AssemblyInfo.cs
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.csproj.CoreCompileInputs.cache
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.dll
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\refint\Doga.dll
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.pdb
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\Doga.genruntimeconfig.cache
+C:\Dávid\c#\12.osztály\2024.10.01_Doga_kektura\Doga\obj\Debug\net8.0\ref\Doga.dll
